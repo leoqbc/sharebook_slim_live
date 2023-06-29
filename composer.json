@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "CarApp\\": "app/"
+        }
+    },
+    "require": {
+        "slim/slim": "^4.11",
+        "slim/psr7": "^1.6"
+    }
+}
