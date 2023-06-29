@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  mariadb:
+    image: mariadb:10.9
+    ports:
+      - "3300:3306"
+    environment:
+      - MARIADB_ROOT_PASSWORD=123456
+      - MARIADB_DATABASE=carapp
