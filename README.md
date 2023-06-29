@@ -15,3 +15,7 @@ Objetivos:
 11. Criando Controllers
 12. Adicionando Injeção de Dependencia
 13. Capturando carros da API
+
+Resolução no repositório *resolucao*
+
+Obrigado.
